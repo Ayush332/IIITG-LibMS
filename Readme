@@ -1,0 +1,18 @@
+                                   Index.html
+                                        |
+                            _______________________________________________ 
+                            |                                             |
+                      login.html                                     adminlogin.html
+                          |                                               |
+    		      home.php 					       home.html
+      ____________________|_________	                   	__________|____________ ______________          
+     |             |               |        		        |                       |             |
+     |             |               |       		        |                       |             |
+reissue.php    available.php      pay		      	 addbook.html          addmem.html           return.php
+     |             |                                       	|                       |             |
+     |             |                                            |                       |             |
+     |             |                                 	        |                       |             |
+     |          issue.php      		         	     addedbook.php            added.php      return_end.php
+     |             |
+     |             |
+reissue_end.php  issue_end.php
